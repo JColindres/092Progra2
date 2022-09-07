@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\T4\T4\bin\Debug\T4.exe.config
+C:\Users\User\Desktop\T4\T4\bin\Debug\T4.exe
+C:\Users\User\Desktop\T4\T4\bin\Debug\T4.pdb
+C:\Users\User\Desktop\T4\T4\bin\Debug\T4.xml
+C:\Users\User\Desktop\T4\T4\obj\Debug\T4.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\T4\T4\obj\Debug\T4.Form1.resources
+C:\Users\User\Desktop\T4\T4\obj\Debug\T4.Resources.resources
+C:\Users\User\Desktop\T4\T4\obj\Debug\T4.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\T4\T4\obj\Debug\T4.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\T4\T4\obj\Debug\T4.exe
+C:\Users\User\Desktop\T4\T4\obj\Debug\T4.xml
+C:\Users\User\Desktop\T4\T4\obj\Debug\T4.pdb

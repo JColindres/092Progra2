@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "201503689_COBROLUZ/1.0.0": {
+        "runtime": {
+          "201503689_COBROLUZ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "201503689_COBROLUZ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

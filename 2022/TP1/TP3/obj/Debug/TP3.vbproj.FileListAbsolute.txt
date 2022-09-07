@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\TP3\TP3\bin\Debug\TP3.exe.config
+C:\Users\User\Desktop\TP3\TP3\bin\Debug\TP3.exe
+C:\Users\User\Desktop\TP3\TP3\bin\Debug\TP3.pdb
+C:\Users\User\Desktop\TP3\TP3\bin\Debug\TP3.xml
+C:\Users\User\Desktop\TP3\TP3\obj\Debug\TP3.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\TP3\TP3\obj\Debug\TP3.Form1.resources
+C:\Users\User\Desktop\TP3\TP3\obj\Debug\TP3.Resources.resources
+C:\Users\User\Desktop\TP3\TP3\obj\Debug\TP3.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\TP3\TP3\obj\Debug\TP3.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TP3\TP3\obj\Debug\TP3.exe
+C:\Users\User\Desktop\TP3\TP3\obj\Debug\TP3.xml
+C:\Users\User\Desktop\TP3\TP3\obj\Debug\TP3.pdb
+C:\Users\User\Desktop\TP3\TP3\obj\Debug\TP3.Form2.resources
